@@ -1,9 +1,11 @@
 
-const a = 15;
+const a = 1;
 const b = 65;
 
 const Sum = (a, b) =>{
     let c = a + b;
     return c
 }
-console.log(Sum(45,58))
+
+let S = Sum(1, 25)
+console.log(S)
