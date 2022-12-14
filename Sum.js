@@ -4,7 +4,7 @@ const b = 65;
 
 const Sum = (a, b) =>{
     let c = a + b;
-    return c
+    return f
 }
 
 let S = Sum(1, 25)
